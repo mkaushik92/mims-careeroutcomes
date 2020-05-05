@@ -5,5 +5,5 @@ Spring 2020
 
 Final Project
 
-[website](https://mkaushik92.github.io/mims-careeroutcomes/)
+[Website](https://mkaushik92.github.io/mims-careeroutcomes/)
 
